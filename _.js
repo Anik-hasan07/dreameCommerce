@@ -4,15 +4,7 @@
 
 // cdgb tpna vhvn evkp
 // my-app
-
-
-
-
-
-
-
-
-
+//mongodb+srv://iamakashcse:2jX1DR55F2Nb3HxB@cluster0.gg8unkw.mongodb.net/newCommerce
 
 
 // exports.resetPassword = catchAsyncErrors(async (req, res, next) => {
